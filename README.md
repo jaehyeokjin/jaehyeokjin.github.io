@@ -1,2 +1,1 @@
-# jaehyeokjin.github.io
-Test test
+# Github page for the Jin Group.
