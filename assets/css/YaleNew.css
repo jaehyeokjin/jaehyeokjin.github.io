@@ -1,0 +1,43 @@
+@font-face {
+	font-family: 'YaleNew';
+	src: url(../../assets/fonts/YaleNew-caf4b12c5065295daecdf0006a97c19e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-caf4b12c5065295daecdf0006a97c19e.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-48212fec5db6e0c937970d2c25ca1c4f.woff) format('woff'),
+	url(../../assets/fonts/YaleNew-c913203a157173a29ba761d9e5c134f4.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'YaleNew';
+	src: url(../../assets/fonts/YaleNew-701dca9e126892a1e981dc9a89eddd2a.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-701dca9e126892a1e981dc9a89eddd2a.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-96fab5d14ea4ca8532eeccc7b1f46431.woff) format('woff'),
+	url(../../assets/fonts/YaleNew-184a8401885efb4b358f177d887b4214.ttf) format('truetype');
+	font-weight: normal;
+	font-style: italic;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'YaleNew';
+	src: url(../../assets/fonts/YaleNew-49f1956849aa4ef9ef4e89343b0bc58d.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-49f1956849aa4ef9ef4e89343b0bc58d.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-e84c280bec34be678307275397edf83f.woff) format('woff'),
+	url(../../assets/fonts/YaleNew-2540aa7dbaf3db180b86b73b2732c1f9.ttf) format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: auto;
+}
+
+@font-face {
+	font-family: 'YaleNew';
+	src: url(../../assets/fonts/YaleNew-39e034c2e5920d8b81d30b40f3253d38.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-39e034c2e5920d8b81d30b40f3253d38.eot) format('embedded-opentype'),
+	url(../../assets/fonts/YaleNew-7fcef67a734c1563936ec8bfc2be8270.woff) format('woff'),
+	url(../../assets/fonts/YaleNew-009d3dfb0e89926be5ab4665073138a7.ttf) format('truetype');
+	font-weight: bold;
+	font-style: italic;
+	font-display: auto;
+}
