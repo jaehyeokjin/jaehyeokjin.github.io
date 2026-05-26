@@ -40,9 +40,16 @@
   }
 }
 
+.navbar-brand img {
+  height: 35px;
+  width: auto;
+  display: block;
+}
+
 @media (max-width: 767px) {
   .navbar-brand img {
-    height: 25px !important;
+    height: 28px !important;
+    width: auto !important;
   }
 }
 
