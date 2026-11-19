@@ -68,6 +68,10 @@
   margin-left: 1rem !important;
 }
 
+.ml-4 {
+  margin-left: 1.5rem !important;
+}
+
 .ml-auto {
   margin-left: auto !important;
 }
